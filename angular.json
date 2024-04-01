@@ -30,8 +30,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -141,5 +140,8 @@
       }
     }
   },
-  "defaultProject": "compass"
+  "defaultProject": "compass",
+  "cli": {
+    "analytics": "001f490a-26d9-4226-83e3-0d7eaa8b797c"
+  }
 }
